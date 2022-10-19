@@ -1,0 +1,27 @@
+{
+    "name": "proyectonode",
+    "version": "1.0.0",
+    "description": "Probando modulos",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/camilagv1/proyectoNode.git"
+    },
+    "author": "Camilagv1",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/camilagv1/proyectoNode/issues"
+    },
+    "homepage": "https://github.com/camilagv1/proyectoNode#readme",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
